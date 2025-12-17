@@ -24,4 +24,6 @@ public class Main {
     private static double convMilesToKilometers(double miles){
         return miles * MILES_CONST;
     }
+    // For additional commit for hw
+    // *******************************
 }
